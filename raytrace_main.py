@@ -12,7 +12,7 @@ from scipy.optimize import minimize
 import pyqtgraph as pg
 import zemax as zm
 import libraytrace as lrt
-#import shared
+import shared
 import os
 
 pg.setConfigOption('background', 'w')
