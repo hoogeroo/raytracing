@@ -2,7 +2,7 @@ import numpy as np
 from scipy.optimize import fsolve
 import matplotlib.pyplot as plt
 import time
-import shared
+#import shared
 #from matplotlib.lines import plt.plot
 
 class segment:
